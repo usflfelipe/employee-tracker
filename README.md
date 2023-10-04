@@ -10,7 +10,7 @@
 
 
 ## Description
-Developed a command-line application to manage a company's employee database. We used Node.js, Inquierer, and MySQL to developed the back end of the application. To begin the application, use must run: 
+Developed a command-line application to manage a company's employee database. I used Node.js, Inquierer, and MySQL to developed the back end of the application. To begin the application, use must run: 
 ```
 node index.js
 ```
@@ -27,15 +27,15 @@ node index.js
 5. The command prompt will begin on your terminal
 
 ## Video
-A link to the [Video]():
+A link to the [Video](https://drive.google.com/file/d/1BpFjCvD-zJoAdh9ttqc56QmicvGl-2Hv/view?usp=drive_link):
 ```
-
+https://drive.google.com/file/d/1BpFjCvD-zJoAdh9ttqc56QmicvGl-2Hv/view?usp=drive_link
 ```
 
 ## Link
-A link to the [code]():
+A link to the [code](https://github.com/usflfelipe/employee-tracker):
 ```
-
+https://github.com/usflfelipe/employee-tracker
 ```
 
 ## License
